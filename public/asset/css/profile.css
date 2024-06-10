@@ -1,0 +1,42 @@
+body
+{
+    background-color: #eeee;
+}
+.container-fluid
+{
+    align-items: flex-start !important;
+}
+.profile_image
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+}
+.profile_image button
+{
+    background-color: transparent;
+    border: none;
+}
+.dropdown-menu
+{
+    min-width: 250px;
+    padding: 20px;
+}
+.profile_image img
+{
+    border-radius: 50%;
+}
+
+.messageAlert
+{
+    display: block;
+    padding: 2px 20px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.navbar
+{
+    padding: 15px 40px;
+}
